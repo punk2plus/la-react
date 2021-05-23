@@ -1,6 +1,4 @@
 import React from "react"
-
-import { withTranslation, WithTranslation } from "react-i18next"
 import { connect } from "react-redux"
 import { RootState } from "../../redux/store"
 import MainLayout from "../../layouts/mainLayout"
