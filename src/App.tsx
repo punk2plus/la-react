@@ -1,9 +1,9 @@
 import styles from "./App.module.css"
 import { BrowserRouter, Route, Switch } from "react-router-dom"
 
-import PageA from "./pages/pageA"
-import PageB from "./pages/pageB"
-import PageC from "./pages/pageC"
+import PageA from "./pages/PageA"
+import PageB from "./pages/PageB"
+import PageC from "./pages/PageC"
 
 function App() {
   return (
